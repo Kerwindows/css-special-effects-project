@@ -1,3 +1,3 @@
 ✨# CSS Special Effects Project ✨ 
 
-View
+[View Site](https://kerwindows.github.io/css-special-effects-project/).
